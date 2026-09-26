@@ -23,7 +23,7 @@ Read the full story in [`CASE-STUDY.md`](./CASE-STUDY.md).
 
 This playbook is the strategy layer. Two companion repos operationalize it further:
 
-- **GenAI Onboarding Workshop Kit** — a ready-to-run slide deck + facilitator notes for the Tier 1 Foundations session *(coming soon)*
+- **GenAI Onboarding Workshop Kit** — a ready-to-run slide deck + facilitator notes for the Tier 1 Foundations session.
 - **AI Adoption Scorecard** — a lightweight template for measuring training effectiveness and sustained tool adoption after rollout *(coming soon)*
 
 ## How to use this
