@@ -25,6 +25,7 @@ This playbook is the strategy layer. Two companion repos operationalize it furth
 
 - **[GenAI Onboarding Workshop Kit](https://github.com/DinaElSawah/Genai-onboarding-workshop-kit)** — a ready-to-run slide deck + facilitator notes for the Tier 1 Foundations session
 - **[AI Adoption Scorecard](https://github.com/DinaElSawah/AI-adoption-scorecard)** — a spreadsheet and interactive dashboard for measuring training effectiveness and sustained adoption after rollout
+- - **[LLM Evaluation & Safety Harness](https://github.com/DinaElSawah/LLM-evaluation-safety-harness)** — the technical implementation of the evaluation approach referenced in this playbook's case study
 
 ## How to use this
 
