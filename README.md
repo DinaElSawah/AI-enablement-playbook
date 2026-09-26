@@ -19,11 +19,11 @@ Read the full story in [`CASE-STUDY.md`](./CASE-STUDY.md).
 | [`03-facilitator-guide.md`](./03-facilitator-guide.md) | How to actually run the sessions: prep, pacing, handling skepticism, and the questions every audience asks |
 | [`CASE-STUDY.md`](./CASE-STUDY.md) | The real rollout this playbook is drawn from, and what it measured |
 
-## Companion projects (in progress)
+## Companion projects
 
 This playbook is the strategy layer. Two companion repos operationalize it further:
 
-- **GenAI Onboarding Workshop Kit** — a ready-to-run slide deck + facilitator notes for the Tier 1 Foundations session.
+- **[GenAI Onboarding Workshop Kit](https://github.com/DinaElSawah/Genai-onboarding-workshop-kit)** — a ready-to-run slide deck + facilitator notes for the Tier 1 Foundations session
 - **AI Adoption Scorecard** — a lightweight template for measuring training effectiveness and sustained tool adoption after rollout *(coming soon)*
 
 ## How to use this
